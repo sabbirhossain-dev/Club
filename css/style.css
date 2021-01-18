@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+
+a,a:focus,a:hover{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+
+    /*manu-part start*/
+
+
+.navbar-expand-lg{
+    padding: 0;
+}
+nav .navbar-brand img{
+    height:95px;
+    width:150px;
+}
+
+
+nav ul{
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 40px 10px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 0;
+}
+nav .nav-link{
+    padding: 0;
+}
+
+nav ul li a{
+    margin-left: 30px;
+    color:#000;
+    font-size: 18px;
+    font-family: 'Open Sans',sans-serif ;
+    position: relative;
+    transition: .4s;
+}
+nav ul .bttn a{
+    font-family: 'Open Sans',sans-serif ;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 20px !important;
+    border-radius: 5px;
+    background: #744fa0;
+    color:#fff;
+        margin-top: -7px;
+    
+}
+nav ul .bttn a:hover{
+    color:#fff;
+}
+nav ul .bttn a:hover:after{
+    width:0;
+}
+
+
+nav ul li a:after {
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    height: 2px;
+    width: 0px;
+    background: #744fa0;
+    content: "";
+    transition: .4s;
+}
+
+nav ul li a:hover{
+    color:#744fa0;
+}
+nav ul li a:hover:after{
+    width: 20px;
+}
+
+
+    /*manu-part end*/
+
+
+
+
+
+
+   /*banner-part start*/
+
+
+#banner-part{
+    background: url(../images/banner.png) no-repeat center;
+    background-size: cover;
+    height:700px;
+    position: relative;
+    color:#fff;
+    text-align: center;
+}
+
+#banner-part .overlay{
+    position: absolute;
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+    background: rgba(0, 0, 0,.7);
+}
+
+#banner-part .overlay h1{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
+#banner-part .overlay h2{
+    font-family:cursive ;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: 100px;
+    margin-bottom: 15px;
+    position: relative;
+    text-transform: capitalize;
+}
+
+
+
+
+
+   /*banner-part end*/
+
+font-family: 'Raleway',sans-serif ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
